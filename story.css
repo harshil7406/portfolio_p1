@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(160, 208, 240);
+}
+
+h2{
+    color: red;
+    border-bottom: 10px groove;
+}
